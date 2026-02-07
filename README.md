@@ -8,4 +8,4 @@
 npm install
 ```
 
-1. Open browser on <http://localhost:8080>
+2. Open browser on <http://localhost:8080>
